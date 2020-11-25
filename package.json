@@ -1,6 +1,6 @@
 {
-  "homepage": "https://stevenjvalle.github.io/disaster-tracker",
-  "name": "disaster-tracker",
+  "homepage": "https://stevenjvalle.github.io/react-disaster-tracker",
+  "name": "react-disaster-tracker",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

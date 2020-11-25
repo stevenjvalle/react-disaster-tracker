@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-disaster-tracker/static/css/main.72db4646.chunk.css",
+    "main.js": "/react-disaster-tracker/static/js/main.d65b23e3.chunk.js",
+    "main.js.map": "/react-disaster-tracker/static/js/main.d65b23e3.chunk.js.map",
+    "runtime-main.js": "/react-disaster-tracker/static/js/runtime-main.3533342e.js",
+    "runtime-main.js.map": "/react-disaster-tracker/static/js/runtime-main.3533342e.js.map",
+    "static/js/2.a94607ce.chunk.js": "/react-disaster-tracker/static/js/2.a94607ce.chunk.js",
+    "static/js/2.a94607ce.chunk.js.map": "/react-disaster-tracker/static/js/2.a94607ce.chunk.js.map",
+    "static/js/3.5240153b.chunk.js": "/react-disaster-tracker/static/js/3.5240153b.chunk.js",
+    "static/js/3.5240153b.chunk.js.map": "/react-disaster-tracker/static/js/3.5240153b.chunk.js.map",
+    "index.html": "/react-disaster-tracker/index.html",
+    "static/css/main.72db4646.chunk.css.map": "/react-disaster-tracker/static/css/main.72db4646.chunk.css.map",
+    "static/js/2.a94607ce.chunk.js.LICENSE.txt": "/react-disaster-tracker/static/js/2.a94607ce.chunk.js.LICENSE.txt",
+    "static/media/spinner.223e1344.gif": "/react-disaster-tracker/static/media/spinner.223e1344.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3533342e.js",
+    "static/js/2.a94607ce.chunk.js",
+    "static/css/main.72db4646.chunk.css",
+    "static/js/main.d65b23e3.chunk.js"
+  ]
+}
